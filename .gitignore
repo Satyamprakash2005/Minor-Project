@@ -1,0 +1,12 @@
+# Raw MePhy Dataset directory (over 250MB of raw text biosignals)
+MePhy Dataset/
+
+# Python virtual environment and caches
+__pycache__/
+*.pyc
+*.pyo
+.matplotlib/
+results/.matplotlib/
+
+# Intermediate processed data array cache (>3MB binary)
+results/processed_data.npz
