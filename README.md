@@ -14,11 +14,6 @@ An end-to-end, multi-stage machine learning and deep learning framework for **3-
 
 ---
 
-## 👥 Authors & Team
-- **Abinash Boro** (BTECH/10059/23)
-- **Satyam Prakash** (BTECH/10083/23)
-- **Arnav Kumar** (BTECH/10167/23)
-
 **Project Guide:** Dr. (Mrs.) Sanchita Paul, Associate Professor, Dept. of CSE, BIT Mesra  
 **Head of Department:** Dr. Abhijit Mustafi  
 
